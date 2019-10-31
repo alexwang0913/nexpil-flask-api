@@ -62,12 +62,15 @@ def get_prescription(text):
 
     print(schedule)
 
+    result = []
     for i in range(0,len(prescription_dataset)):
+        data = {}
         print(" ******************* Prescription #" +str(i) +" *******************")
         prescription = prescription_dataset[i].lower()
         prescription_tokenized = [word.replace(".","").replace("(","").replace(")","") for word in prescription.split()]
         prescription_tokenized_final = [pstem.stem(word) for word in prescription_tokenized ]
         print(prescription)
+        data.update({'prescription': prescription})
         #print(Amount)
         #print(frequency)
         amount=""
@@ -117,3 +120,6 @@ def get_prescription(text):
             if s in prescription:
                 symptoms+= " "+s
         print("Symptoms : " + symptoms + "\nFrequency : " + freq + "\nTimings : "+ timing)
+        data.update({"Amount":amount,"Symptoms" :symptoms,"Frequency":freq,"Timings":timing})
+        result.append(data)
+    return result

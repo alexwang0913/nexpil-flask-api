@@ -1,0 +1,15 @@
+caps - capsules - capsule
+gtt - drops
+i, ii, iii, or iiii - the number of doses (1, 2, 3, or 4)
+mg - milligrams
+ml - milliliters
+ss - one-half
+tabs - tablets - tablet
+tbsp - tablespoon (15ml)
+tsp - teaspoon (5ml)
+Puff(s)
+Inj(s) - Injection(s)
+Units
+micrograms
+suppository
+pill - pills

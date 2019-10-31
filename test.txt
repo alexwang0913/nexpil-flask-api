@@ -1,0 +1,5 @@
+Hello 
+
+As per discssion on skype I understabd that you required one api which will take text as inout from user and return the prescription. if no prescription found then return an error message. for this task we will use python code provide by you and used that code for impelemneting this api. We will implement this api only no updation in ML script will be done by us.
+
+Thanks

@@ -12,4 +12,5 @@ Inj(s) - Injection(s)
 Units
 micrograms
 suppository
-pill - pills
+pill
+pills

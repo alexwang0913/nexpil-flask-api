@@ -1,13 +1,13 @@
 ad lib - freely, as needed
-bid - bid - twice a day
+bid - b.i.d. - twice a day
 prn - as needed
-daily - everyday - every day
+daily
 once a day
 each day
 q3h - q3 - every 3 hours **This can be any number of unit of time, here it is every 3 hours
 q4h - q4
 q4-6, or q4h-6h, q4-6h- every 4-6 hours
-qd - every day
+qd - everyday
 Q day of the week or qday of the week --Ex:  Every monday = Q monday
 Every other day at a specific time (ex: Every other day at 11am, Every other day at bedtime)
 QHS- every bedtime
@@ -20,9 +20,9 @@ qid or q.i.d.- four times a day
 3 times a day - TID
 4 times a day - QID
 5 times a day
-Every 24 hours Bedtime (QPM)
+Bedtime - (QPM)
 With meals
 With meals and at bedtime
 after meals
 before meals
-at bedtime
+with food

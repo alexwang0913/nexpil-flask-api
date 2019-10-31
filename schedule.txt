@@ -1,7 +1,8 @@
-Daily : 0900
-each day : 0900
-daily : 0900
-once a day : 0900
+Daily : 900
+each day : 900
+everyday : 900
+daily : 900
+once a day : 900
 2 times a day (BID): 0900, 2100
 bid : 0900, 2100
 3 times a day (TID) :0900, 1400, 2100 or 0800, 1200, 1700 (52 Psych)
@@ -10,13 +11,8 @@ after meals: 0900, 1300 , 2100
 before meals: 0800, 1200 , 2000
 4 times a day (QID): 0900, 1300, 1700, 2100
 5 times a day : 0500, 0900, 1300, 1700, 2100
-Every two hours : 0800, 1000, 1200, 1400, 1600, 1800, 2000, 2200
-Every three hours : 0000, 0300, 0600, 0900, 1200, 1500, 1800, 2100
-Every four hours : 0100, 0500, 0900, 1300, 1700, 2100
-Every six hours : 0600, 1200, 1800, 2400
-Every eight hours : 0800, 1600, 2400
-Every twelve hours : 0900, 2100
 Every 2 hours : 0800, 1000, 1200, 1400, 1600, 1800, 2000, 2200
+Every two hours : 0800, 1000, 1200, 1400, 1600, 1800, 2000, 2200
 Every 3 hours : 0000, 0300, 0600, 0900, 1200, 1500, 1800, 2100
 Every 4 hours : 0100, 0500, 0900, 1300, 1700, 2100
 Every 6 hours : 0600, 1200, 1800, 2400
@@ -24,5 +20,4 @@ Every 8 hours : 0800, 1600, 2400
 Every 12 hours : 0900, 2100
 Every 24 hours Bedtime (QPM) : Time will default to hour profiled (ie, 1st order processed) 2100
 With meals : 0800, 1200, 1700
-With meals and at bedtime : 0800, 1200, 1700, 2100
-at bedtime : 2100
+bedtime : 2100

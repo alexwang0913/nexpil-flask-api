@@ -32,4 +32,4 @@ def getprescription():  # pylint: disable=unused-variable
     return data
 
 
-app.run(host=LOCALHOST, port=5000)
+app.run(host=LOCALHOST, port=80)

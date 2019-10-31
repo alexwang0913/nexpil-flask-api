@@ -9,13 +9,14 @@ import itertools
 pstem = PorterStemmer()
 with open("dataset2.txt") as f:
     dataset = f.readlines()
+
 with open("symptoms.txt") as f:
     symptoms = f.readlines()
-# print(symptoms)
+print(symptoms)
 finalsyns=[]
 for word in symptoms:
     syns = wordnet.synsets(word.strip())
-    # print(syns)
+    print(syns)
     syns = [s.lemma_names() for s in syns ]
     merged = list(itertools.chain(*syns))
     if len(merged) == 0:

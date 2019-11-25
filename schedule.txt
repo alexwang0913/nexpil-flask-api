@@ -21,3 +21,10 @@ Every 12 hours : 0900, 2100
 Every 24 hours Bedtime (QPM) : Time will default to hour profiled (ie, 1st order processed) 2100
 With meals : 0800, 1200, 1700
 bedtime : 2100
+Every two hours : 0800, 1000, 1200, 1400, 1600, 1800, 2000, 2200
+Every three hours : 0000, 0300, 0600, 0900, 1200, 1500, 1800, 2100
+Every four hours : 0100, 0500, 0900, 1300, 1700, 2100
+Every six hours : 0600, 1200, 1800, 2400
+Every eight hours : 0800, 1600, 2400
+Every twelve hours : 0900, 2100
+twice a day: 0900, 2100

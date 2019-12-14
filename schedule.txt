@@ -28,3 +28,7 @@ Every six hours : 0600, 1200, 1800, 2400
 Every eight hours : 0800, 1600, 2400
 Every twelve hours : 0900, 2100
 twice a day: 0900, 2100
+four times a day (QID): 0900, 1300, 1700, 2100
+five times a day : 0500, 0900, 1300, 1700, 2100
+three times a day (TID) :0900, 1400, 2100 or 0800, 1200, 1700 (52 Psych)
+two times a day (BID): 0900, 2100

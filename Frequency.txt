@@ -26,3 +26,7 @@ With meals and at bedtime
 after meals
 before meals
 with food
+two times a day - BID
+three times a day - TID
+four times a day - QID
+five times a day
